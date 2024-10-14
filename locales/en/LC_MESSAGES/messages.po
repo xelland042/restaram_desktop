@@ -1,0 +1,127 @@
+# English translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-10-12 14:18+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+msgid "Aloqa"
+msgstr "Contact"
+
+msgid "Haqida"
+msgstr "About"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Parol"
+msgstr "Password"
+
+msgid "Afitsant chaqirish"
+msgstr "Call waiter"
+
+msgid "Roʻyxatdan oʻtish"
+msgstr "Registration"
+
+msgid "Dastur bilan sherikchilik"
+msgstr "Partnership with the program"
+
+msgid "Biz Haqimizda"
+msgstr "About Us"
+
+msgid "Qo‘ng‘iroq qiling, telegramga yozing yoki ofisga tashrif buyuring!"
+msgstr "Call, write to Telegram, or visit the office!"
+
+msgid ""
+"Toshkent sh., Chilonzor tumani Cho‘ponota ko‘chasi, 28-uy (Mo‘ljal: "
+"\"Tashrif\" mehmonxonasi)"
+msgstr ""
+"28 Cho‘ponota Street, Chilonzor District, Tashkent (Landmark: \"Tashrif\""
+" Hotel)"
+
+msgid "Taom tarkibi:"
+msgstr "Meal composition:"
+
+msgid "Stol"
+msgstr "Table"
+
+msgid "Ports"
+msgstr "Ports"
+
+msgid "Batafsil ko`rish"
+msgstr "See details"
+
+msgid "Qolmadi"
+msgstr "Out of stock"
+
+msgid "Buyurtmalar tarixi"
+msgstr "Order history"
+
+msgid "Taom"
+msgstr "Food"
+
+msgid "Soni"
+msgstr "Count"
+
+msgid "Narxi"
+msgstr "Price"
+
+msgid "Izoh"
+msgstr "Detail"
+
+msgid "Jami"
+msgstr "All"
+
+msgid "Xizmat xaqqi"
+msgstr "Service fee"
+
+msgid "Shu yerda"
+msgstr "In here"
+
+msgid "Olib ketish"
+msgstr "Take away"
+
+msgid "Buyurtmani davom ettirish"
+msgstr "Continue order"
+
+msgid "Til muvaffaqiyatli o'zgardi!"
+msgstr "Language successfully changed!"
+
+msgid "Hisobingizdan chiqishni hohlaysizmi?"
+msgstr "Do you want to log out?"
+
+msgid "Ha"
+msgstr "Yes"
+
+msgid "Yo'q"
+msgstr "No"
+
+msgid "Hisob"
+msgstr "Bill"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Izoh kiriting..."
+msgstr "Enter a comment..."
+
+msgid "so'm"
+msgstr "sum"
+

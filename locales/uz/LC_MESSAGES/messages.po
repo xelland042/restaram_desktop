@@ -1,0 +1,127 @@
+# Uzbek translations for PROJECT.
+# Copyright (C) 2024 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2024.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2024-10-12 14:18+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: uz\n"
+"Language-Team: uz <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.16.0\n"
+
+msgid "Aloqa"
+msgstr "Aloqa"
+
+msgid "Haqida"
+msgstr "Haqida"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Parol"
+msgstr "Parol"
+
+msgid "Afitsant chaqirish"
+msgstr "Afitsant chaqirish"
+
+msgid "Roʻyxatdan oʻtish"
+msgstr "Roʻyxatdan oʻtish"
+
+msgid "Dastur bilan sherikchilik"
+msgstr "Dastur bilan sherikchilik"
+
+msgid "Biz Haqimizda"
+msgstr "Biz Haqimizda"
+
+msgid "Qo‘ng‘iroq qiling, telegramga yozing yoki ofisga tashrif buyuring!"
+msgstr "Qo‘ng‘iroq qiling, telegramga yozing yoki ofisga tashrif buyuring!"
+
+msgid ""
+"Toshkent sh., Chilonzor tumani Cho‘ponota ko‘chasi, 28-uy (Mo‘ljal: "
+"\"Tashrif\" mehmonxonasi)"
+msgstr ""
+"Toshkent sh., Chilonzor tumani Cho‘ponota ko‘chasi, 28-uy (Mo‘ljal: "
+"\"Tashrif\" mehmonxonasi)"
+
+msgid "Taom tarkibi:"
+msgstr "Taom tarkibi:"
+
+msgid "Stol"
+msgstr "Stol"
+
+msgid "Ports"
+msgstr "Ports"
+
+msgid "Batafsil ko`rish"
+msgstr "Batafsil ko`rish"
+
+msgid "Qolmadi"
+msgstr "Qolmadi"
+
+msgid "Buyurtmalar tarixi"
+msgstr "Buyurtmalar tarixi"
+
+msgid "Taom"
+msgstr "Taom"
+
+msgid "Soni"
+msgstr "Soni"
+
+msgid "Narxi"
+msgstr "Narxi"
+
+msgid "Izoh"
+msgstr "Izoh"
+
+msgid "Jami"
+msgstr "Jami"
+
+msgid "Xizmat xaqqi"
+msgstr "Xizmat xaqqi"
+
+msgid "Shu yerda"
+msgstr "Shu yerda"
+
+msgid "Olib ketish"
+msgstr "Olib ketish"
+
+msgid "Buyurtmani davom ettirish"
+msgstr "Buyurtmani davom ettirish"
+
+msgid "Til muvaffaqiyatli o'zgardi!"
+msgstr "Til muvaffaqiyatli o'zgardi!"
+
+msgid "Hisobingizdan chiqishni hohlaysizmi?"
+msgstr "Hisobingizdan chiqishni hohlaysizmi?"
+
+msgid "Ha"
+msgstr "Ha"
+
+msgid "Yo'q"
+msgstr "Yo'q"
+
+msgid "Hisob"
+msgstr "Hisob"
+
+msgid "Menu"
+msgstr "Menyu"
+
+msgid "Izoh kiriting..."
+msgstr "Izoh kiriting..."
+
+msgid "so'm"
+msgstr "so'm"
+
